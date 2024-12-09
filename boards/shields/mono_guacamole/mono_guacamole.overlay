@@ -23,9 +23,9 @@
         compatible = "zmk,physical_layout";
         display-name = "Default Layout";
     };
+};
 
-    &physical_layout0 {
-        kscan = <&kscan0>;
-        transform = <&matrix_transform0>;
-    };
+&physical_layout0 {
+    kscan = <&kscan0>;
+    transform = <&matrix_transform0>;
 };
