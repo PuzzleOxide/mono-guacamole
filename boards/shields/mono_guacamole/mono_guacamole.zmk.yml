@@ -1,0 +1,8 @@
+file_format: "1"
+id: mono_guacamole
+name: "Mono Guacamole"
+type: shield
+url: https://github.com/foostan/crkbd/
+requires: [seeduino_xiao]
+features:
+  - keys

@@ -1,0 +1,6 @@
+if SHIELD_MONO_GUACAMOLE
+
+config ZMK_KEYBOARD_NAME
+    default "Mono Guacamole"
+
+endif
